@@ -7,7 +7,7 @@
 
 <p align="center">- 👨‍💻 All of my projects are available at [soon](soon)</p>
 
-<p align="center">- 📫 How to reach me **luckie@luckiecrab.nl**</p>
+<p align="center">- 📫 How to reach me <b>luckie@luckiecrab.nl<b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
