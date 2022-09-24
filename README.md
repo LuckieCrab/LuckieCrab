@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckiecrab&theme=radical" alt="luckiecrab" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/luckiecrab" target="blank"><img src="https://img.shields.io/twitter/follow/luckiecrab?logo=twitter&style=for-the-badge" alt="luckiecrab" /></a> </p>
+<p align="center"> <a href="https://twitter.com/luckiecrab" target="_blank"><img src="https://img.shields.io/twitter/follow/luckiecrab?logo=twitter&style=for-the-badge" alt="luckiecrab" /></a> </p>
 
 <p align="center">- 👨‍💻 All of my projects are available at [soon](soon)</p>
 
